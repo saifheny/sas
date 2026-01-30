@@ -1,6 +1,6 @@
 import streamlit as st
 import google.generativeai as genai
-import requests
+import requests 
 
 GOOGLE_API_KEY = "AIzaSyDAa0CYGO1SYZB_zPqxPuuAQW2Ez_L8vWY"
 ELEVENLABS_API_KEY = "sk_0bce5119b19797b08a5d606d490744dd16bda9c611ced2b6"
